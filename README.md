@@ -12,7 +12,7 @@ N/A
 
 # Usage
 
-View application by clicking here: LINK
+View application by clicking here: https://rujainemena.github.io/scheduler/
 
 ![scheduler](./assets/images/scheduler.png)
 
@@ -23,11 +23,11 @@ View application by clicking here: LINK
 
 # Features
 
-![Static Badge](https://img.shields.io/badge/Language-HTML5-green)
+![Static Badge](https://img.shields.io/badge/Language-HTML5-orange)
 
-![Static Badge](https://img.shields.io/badge/Language-CSS4-orange)
+![Static Badge](https://img.shields.io/badge/Language-CSS4-purple)
 
-![Static Badge](https://img.shields.io/badge/Language-JQuery-pink)
+![Static Badge](https://img.shields.io/badge/Language-JQuery-yellow)
 
 # In-App Features
 * Timeblocks from 9am to 5pm
